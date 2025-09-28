@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: #fff;
+  border-bottom: 1px solid #e5e7eb;
+}
+.header-right {
+  display: flex;
+  align-items: center;
+}
+.notif-button {
+  font-size: 1.2rem;
+  background: none;
+  border: none;
+  margin-right: 1rem;
+}
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
